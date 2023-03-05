@@ -1,2 +1,2 @@
-# GlobalAIHubYapayZekaProje
-Global AI Hub Yapay Zeka Bootcamp  Depreme Hazırlık Projesi : Ray Of Hope
+# Global AI Hub Yapay Zeka Okuryazarlığı Bootcamp Proje
+# Ray Of Hope
