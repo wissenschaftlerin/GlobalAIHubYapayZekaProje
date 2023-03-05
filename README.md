@@ -3,7 +3,7 @@
 
 Ülkemizde yaşanan Pazarcık merkezli depremden sonra yaşanan koordinasyon ve bilgi eksikliğinin yaşattığı zor durum karşısında ekip olarak  geleceğimiz için bir adım atmaya ve durumu kolaylaştıracak bir ürün tasarlamaya karar verdik. 
 
-[Sunum Linkimiz](https://www.canva.com/design/DAFb_InZMFU/Zql5uqiIl7GtSARsg-Zcfg/view?utm_content=DAFb_InZMFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# [Sunum Linkimiz](https://www.canva.com/design/DAFb_InZMFU/Zql5uqiIl7GtSARsg-Zcfg/view?utm_content=DAFb_InZMFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 # 🤖 Takım Üyeleri
