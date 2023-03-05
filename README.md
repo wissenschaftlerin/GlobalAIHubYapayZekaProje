@@ -1,5 +1,5 @@
 # Global AI Hub Yapay Zeka Okuryazarlığı Bootcamp Proje
-# <h1 align="center">Ray Of Hope</h1>
+# <h1 align="center"> 🌏 Ray Of Hope ⌚ </h1>
 
 
 # 🤖 Takım Üyeleri
