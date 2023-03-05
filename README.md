@@ -15,5 +15,5 @@ Ekip olarak devletin depremzedelere ait olan bilgilere daha hızlı ve kesintisi
 ## 🚀 [Firdevs Cansu KARBUZ](https://www.linkedin.com/in/firdevs-cansu-karbuz-a738aa201/)
 ## 🚀 [Gülizar YETİŞ](https://www.linkedin.com/in/gulizaryetis/)
 ## 🚀 [Tuba DEMİROK](https://www.linkedin.com/in/tubademirok/)
-## 🚀 [Tuğçe Nur Öztürk](https://www.linkedin.com/in/nergiscolak/)
+## 🚀 [Tuğçe Nur Öztürk](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-nur-%C3%B6zt%C3%BCrk-a4b913224/)
 ## 🚀 [Zeynep Feyza ATABEY](https://www.linkedin.com/in/zeynepfeyzatabey/)
