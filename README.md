@@ -1,6 +1,8 @@
 # Global AI Hub Yapay Zeka Okuryazarlığı Bootcamp Proje
 # <h1 align="center"> 🌏 Ray Of Hope ⌚ </h1>
 
+Ülkemizde yaşanan Pazarcık merkezli depremden sonra yaşanan koordinasyon ve bilgi eksikliğinin yaşattığı zor durum karşısında ekip olarak  geleceğimiz için bir adım atmaya ve durumu kolaylaştıracak bir ürün tasarlamaya karar verdik. 
+
 
 # 🤖 Takım Üyeleri
 
