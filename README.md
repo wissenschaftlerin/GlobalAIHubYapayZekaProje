@@ -3,6 +3,10 @@
 
 Ülkemizde yaşanan Pazarcık merkezli depremden sonra yaşanan koordinasyon ve bilgi eksikliğinin yaşattığı zor durum karşısında ekip olarak  geleceğimiz için bir adım atmaya ve durumu kolaylaştıracak bir ürün tasarlamaya karar verdik. 
 
+Projemizin hedef kitlesini enkaz altında kalan ve ulaşılmaya çalışılan depremzedeler olarak belirledik. 
+
+Ekip olarak devletin depremzedelere ait olan bilgilere daha hızlı ve kesintisiz ulaşabilmesi için uzun ömürlü, direkt uyduya bağlı, depremzedelerin çeşitli özelliklerini veri olarak sunan bir akıllı saat tasarladık.
+
 # [Sunum Linkimiz](https://www.canva.com/design/DAFb_InZMFU/Zql5uqiIl7GtSARsg-Zcfg/view?utm_content=DAFb_InZMFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
