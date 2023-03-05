@@ -1,7 +1,8 @@
 # Global AI Hub Yapay Zeka Okuryazarlığı Bootcamp Proje
 
 # <h1 align="center"> 🛰️🌏📶 Signal Of Hope 🏘️⌚ </h1>
-![Black and Gold Classy Minimalist Circular Name Logo](https://user-images.githubusercontent.com/72699045/222980887-aadb235f-084f-4530-b207-4450583690af.png)
+<div align="center"><img src="https://user-images.githubusercontent.com/72699045/222980887-aadb235f-084f-4530-b207-4450583690af.png" alt="logo" /></div>
+<h3 align="center"> Takım Logomuz </h3>
 
 Ülkemizde yaşanan Pazarcık merkezli depremden sonra yaşanan koordinasyon ve bilgi eksikliğinin yaşattığı zor durum karşısında ekip olarak  geleceğimiz için bir adım atmaya ve durumu kolaylaştıracak bir ürün tasarlamaya karar verdik. 
 
